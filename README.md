@@ -15,8 +15,13 @@ The explosion spritesheet was released into the public domain by [StumpyStrust](
 ## References
 None
 
-## Future Development
-May add background and custom sprites
+## Features
+Added these things
+- Background created by me
+- One new enemy
+- Infinitely spawning asteroids that spawn faster the longer you stay alive
+- An extra life system that awards one life at 2500 pts and 10000 pts
+- Hitboxes to every entity
 
 ## Created by
 Samuel Styer
