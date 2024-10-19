@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 1756204794954727885}
   - component: {fileID: 2888120219562929921}
   - component: {fileID: 5278527083670416294}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: SpawnedAsteroid
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -123,7 +123,7 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: 6b163bfa2bca382469f27c9b8304f894, type: 2}
+    - {fileID: 11400000, guid: 3da7647e27815c84797d0e8ac153d090, type: 2}
 --- !u!50 &2888120219562929921
 Rigidbody2D:
   serializedVersion: 4
