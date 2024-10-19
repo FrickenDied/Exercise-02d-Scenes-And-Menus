@@ -2,7 +2,7 @@
 
 Exercise for MSCH-C220
 
-A user-controlled ship for a space-shooter game. Recently added the ability to shoot at asteroids. Created in Unity.
+An asteroids style game, where its a top down 2D endless shooter with ramping difficulty
 
 ## Implementation
 
@@ -22,6 +22,9 @@ Added these things
 - Infinitely spawning asteroids that spawn faster the longer you stay alive
 - An extra life system that awards one life at 2500 pts and 10000 pts
 - Hitboxes to every entity
+
+## Future Development
+None
 
 ## Created by
 Samuel Styer
